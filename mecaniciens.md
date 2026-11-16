@@ -7,3 +7,4 @@ Alann : Reparateur
 Antoine : Frein
 Malo : Chaine
 Fares : Chef de projet
+Cindy : Comptable
